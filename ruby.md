@@ -1,1 +1,1 @@
-"Arrays start at 1"
+Arrays start at 0
