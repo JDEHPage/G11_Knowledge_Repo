@@ -1,3 +1,19 @@
-https://ohshitgit.com/ - "How to fix bad git situations"
+# General info about git and more git... and more
 
-http://www.commitlogsfromlastnight.com/ - "Unprofessional but funny commits from the last 24h"
+How git markdown works (i.e. git version of html)
+
+```
+https://guides.github.com/features/mastering-markdown/
+```
+
+How to fix bad git situations
+
+```
+https://ohshitgit.com/
+```
+
+Unprofessional but funny commits from the last 24h
+
+```
+http://www.commitlogsfromlastnight.com/
+```
