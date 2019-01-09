@@ -9,4 +9,4 @@ Technical bits and bobs of interest not directly related to a language.
 
 ## Accessibility
 
-* [a11y weekly](https://a11yweekly.com/) - all about web and app accessibility. 
+* [a11y weekly](https://a11yweekly.com/) - all about web and app accessibility.
