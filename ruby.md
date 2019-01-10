@@ -6,3 +6,6 @@ https://ruby-doc.org/core-2.4.0/String.html#method-i-gsub - All things String Re
 
 ## Style Guide
 https://github.com/rubocop-hq/ruby-style-guide
+
+## Debugging
+[PRY](http://pryrepl.org/) - PRY Documentation
