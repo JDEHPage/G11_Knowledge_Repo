@@ -7,9 +7,11 @@ Technical bits and bobs of interest not directly related to a language.
 * [Firefox Monitor](https://monitor.firefox.com/) - Lets you know if your email address ever been compromised by a data breach.
 
 
-## Accessibility
+## Newsletters
 
-* [a11y weekly](https://a11yweekly.com/) - all about web and app accessibility.
+* [a11y weekly](https://a11yweekly.com/) - web and app accessibility newsletter, free.
+
+* [The Algorithm](https://go.technologyreview.com/newsletters/the-algorithm/) - Artificial Intelligence newsletter from MIT, free.
 
 
 ## YouTube Documentary
