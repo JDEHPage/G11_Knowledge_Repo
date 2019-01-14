@@ -16,7 +16,4 @@
 
 ## Ruby Programming Language - Full Course
 
-```
-https://www.youtube.com/watch?v=t_ispmWmdjY&t=11669s
-
-```
+* [YouTube - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY&t=11669s)
