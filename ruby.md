@@ -17,3 +17,10 @@
 ## Ruby Programming Language - Full Course
 
 * [YouTube - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY&t=11669s)
+
+## Unified Modelling Language (UML)
+Used for drawing the class diagrams.
+
+* [UML website](http://www.uml.org/)
+
+* [Tutorial](https://www.tutorialspoint.com/uml/)
