@@ -6,6 +6,8 @@ How git markdown works (i.e. git version of html)
 https://guides.github.com/features/mastering-markdown/
 ```
 
+[Git Command Explorer](https://gitexplorer.com/)
+
 How to fix bad git situations
 
 ```
